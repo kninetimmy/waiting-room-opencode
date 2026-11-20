@@ -6,3 +6,11 @@ node_modules/
 test-results/
 playwright-report/
 .env
+.orchestrator/worktrees/
+.orchestrator/config.local.toml
+.orchestrator/state.json
+.orchestrator/delivery.lock
+.claude/agents/
+.codex/agents/
+.orchestrator/metrics/
+.opencode/agents/
